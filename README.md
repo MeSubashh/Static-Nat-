@@ -2,11 +2,11 @@
 Static NAT is implemented using CISCO packet tracer application
 Configuration:-
 
-1.Access the router's command-line interface.
-2.Configure the necessary interfaces with appropriate IP addresses. For example:
-3.Set up static NAT mappings for internal devices:
-4.Define NAT Inside and Outside interfaces:
-5.Save the configuration.
++ 1.Access the router's command-line interface.
++ 2.Configure the necessary interfaces with appropriate IP addresses. For example:
++ 3.Set up static NAT mappings for internal devices:
++ 4.Define NAT Inside and Outside interfaces:
++ 5.Save the configuration.
 
 Usage:-
 Make sure the router is powered on and connected to the network. The static NAT mappings should now be in effect.
