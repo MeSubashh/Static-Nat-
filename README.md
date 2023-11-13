@@ -13,5 +13,5 @@ Make sure the router is powered on and connected to the network. The static NAT 
 
 Connectivity Testing:-
 To test the connectivity, initiate ping tests between devices:
-	1.From PC1, ping an external device using its public IP address.
-	2.From an external device, ping PC1 using its private IP address.
+	+ 1.From PC1, ping an external device using its public IP address.
+	+ 2.From an external device, ping PC1 using its private IP address.
