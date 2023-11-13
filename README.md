@@ -4,6 +4,15 @@ Configuration:-
 
 + 1.Access the router's command-line interface.
 + 2.Configure the necessary interfaces with appropriate IP addresses. For example:
+  + #interface Serial0/0
+  + #ip address 200.200.200.1 255.255.255.0
+  + #no shutdown
+  + #exit
+  
+  + #interface FastEthernet0/0
+  + #ip address 192.168.1.1 255.255.0.0
+  + #no shutdown
+  + #exit
 + 3.Set up static NAT mappings for internal devices:
 + 4.Define NAT Inside and Outside interfaces:
 + 5.Save the configuration.
